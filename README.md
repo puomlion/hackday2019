@@ -1,2 +1,2 @@
 # hackday2019
-it highlight your daily achievements on evry hackday
+it highlight your daily achievements on every hackday
